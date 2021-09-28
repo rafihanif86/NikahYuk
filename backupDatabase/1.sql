@@ -1,0 +1,1 @@
+UPDATE login SET Username = '$user',PASSWORD = '', Email_login = 'admin1@polinema.ac.id',STATUS = 'vendor' WHERE Id_login = 10;
